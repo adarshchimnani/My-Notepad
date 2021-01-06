@@ -1,0 +1,10 @@
+C:\Users\Adarsh\source\repos\My Notepad\bin\Release\My Notepad.exe.config
+C:\Users\Adarsh\source\repos\My Notepad\bin\Release\My Notepad.exe
+C:\Users\Adarsh\source\repos\My Notepad\bin\Release\My Notepad.pdb
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My Notepad.csprojAssemblyReference.cache
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My_Notepad.Form1.resources
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My_Notepad.Properties.Resources.resources
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My Notepad.csproj.GenerateResource.cache
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My Notepad.csproj.CoreCompileInputs.cache
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My Notepad.exe
+C:\Users\Adarsh\source\repos\My Notepad\obj\Release\My Notepad.pdb

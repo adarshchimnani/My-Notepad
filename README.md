@@ -6,7 +6,7 @@ Project: My Notepad.
 
 2. Features:
    a. Text Search
-   b. Next Word Prediction throuh File
+   b. Next Word Prediction through given file
    c. Undo/Redo
    d. Cut/Copy/Paste
    e. Save File
